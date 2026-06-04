@@ -1,22 +1,22 @@
-const revealItems = document.querySelectorAll(".reveal");
-const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+const items = document.querySelectorAll(".reveal");
+const reduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
-const revealObserver = new IntersectionObserver(
+const observer = new IntersectionObserver(
   (entries) => {
     entries.forEach((entry) => {
       if (entry.isIntersecting) {
-        entry.target.classList.add("is-visible");
-        revealObserver.unobserve(entry.target);
+        entry.target.classList.add("visible");
+        observer.unobserve(entry.target);
       }
     });
   },
-  { threshold: 0.12 }
+  { threshold: 0.08, rootMargin: "0px 0px -40px 0px" }
 );
 
-revealItems.forEach((item) => {
-  if (reducedMotion) {
-    item.classList.add("is-visible");
+items.forEach((el) => {
+  if (reduced) {
+    el.classList.add("visible");
     return;
   }
-  revealObserver.observe(item);
+  observer.observe(el);
 });

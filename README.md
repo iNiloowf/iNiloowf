@@ -26,8 +26,8 @@ I build and ship **public, live web and mobile apps** — from swipe-based movie
 | Project | Description | Live | Code |
 |---------|-------------|------|------|
 | **CineMatch** | Movie matching — swipe, watchlists, auth, Stripe, Android APK | [Demo](https://cine-match-neon.vercel.app) | [Repo](https://github.com/iNiloowf/CineMatch) |
+| **Thrift Value AI** | AI thrift store app — item ID and resale value estimation | [Demo](https://thrift-store-ai-app.vercel.app) | [Repo](https://github.com/iNiloowf/Thrift-Store-AI-App) |
 | **BiteSync** | Group food decisions with QR rooms and swipe matching | [Demo](https://bite-sync-three.vercel.app) | [Repo](https://github.com/iNiloowf/BiteSync) |
-| **Cinemate** | Movie discovery app (evolved into CineMatch) | [Demo](https://cinemate-pearl.vercel.app) | [Repo](https://github.com/iNiloowf/cinemate) |
 | **Crypto Tracker** | Real-time crypto price dashboard | — | [Repo](https://github.com/iNiloowf/faradars-crypto-tracking) |
 | **Bank Functional** | Interactive bank dashboard UI | — | [Repo](https://github.com/iNiloowf/Bank_Functional) |
 

@@ -36,15 +36,15 @@ Daily user of **Cursor** and modern AI coding tools for prototyping, debugging, 
 
 Mobile-first movie matching app with swipe discovery, shared watchlists, Supabase auth, Stripe, TMDB, and Capacitor Android.
 
+### Thrift Value AI · 2026
+**Live:** [thrift-store-ai-app.vercel.app](https://thrift-store-ai-app.vercel.app) · **Code:** [GitHub](https://github.com/iNiloowf/Thrift-Store-AI-App)
+
+AI-powered thrift store app for item identification and resale value estimation. Next.js, TypeScript, Vercel.
+
 ### BiteSync · 2026
 **Live:** [bite-sync-three.vercel.app](https://bite-sync-three.vercel.app) · **Code:** [GitHub](https://github.com/iNiloowf/BiteSync)
 
 Group food decisions with QR rooms and swipe matching. Next.js, TypeScript, Vercel.
-
-### Cinemate · 2025
-**Live:** [cinemate-pearl.vercel.app](https://cinemate-pearl.vercel.app) · **Code:** [GitHub](https://github.com/iNiloowf/cinemate)
-
-First-gen movie discovery app — evolved into CineMatch.
 
 ### Crypto Tracker · 2025
 **Code:** [GitHub](https://github.com/iNiloowf/faradars-crypto-tracking)
