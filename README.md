@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Niloofar 👋
+# Hi, I'm Nil 👋
 
 **Full-Stack & Mobile Developer** · Canada · Open to Work
 
@@ -14,7 +14,7 @@
 
 ## About Me
 
-I build web and mobile apps with **Next.js**, **React Native**, and **Supabase**. Two of my projects are live right now — a movie-matching app and an AI thrift-store tool. I use **Cursor** when it helps, but I still read every diff and test before pushing.
+I build web and mobile apps with **Next.js**, **React Native**, and **Supabase**. Two projects are live right now — **CineMatch** (movie matching) and **Thrift Value AI** (thrift-store photo ID + price estimate). I use **Cursor** when it helps, but I still read every diff and test before pushing.
 
 🌐 **Portfolio:** [iniloowf.github.io/iNiloowf](https://iniloowf.github.io/iNiloowf/)  
 📄 **Resume:** [View / Print PDF](https://iniloowf.github.io/iNiloowf/resume.html)
@@ -46,13 +46,13 @@ Cursor · Git · GitHub · Vercel
 
 ---
 
-## GitHub Stats
+## GitHub
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iNiloowf&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iNiloowf&layout=compact&theme=default&hide_border=true)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-@iNiloowf-181717?style=for-the-badge&logo=github)](https://github.com/iNiloowf)
+[![Public Repos](https://img.shields.io/badge/Public%20Repos-view-6366f1?style=for-the-badge&logo=github)](https://github.com/iNiloowf?tab=repositories)
+[![Portfolio Site](https://img.shields.io/badge/Portfolio-live-10b981?style=for-the-badge&logo=vercel)](https://iniloowf.github.io/iNiloowf/)
 
 </div>
 
@@ -68,6 +68,6 @@ Cursor · Git · GitHub · Vercel
 
 <div align="center">
 
-*Based in Canada. Looking for my next dev role.*
+*Nil Karyar · Canada · Looking for my next dev role.*
 
 </div>

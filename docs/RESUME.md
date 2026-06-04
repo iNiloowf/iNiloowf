@@ -1,4 +1,4 @@
-# Niloofar Karyar — Resume
+# Nil Karyar — Resume
 
 **Full-Stack & Mobile Developer** · Canada · Open to Work  
 📧 [Niloowf@gmail.com](mailto:Niloowf@gmail.com) · 📱 +1 (368) 999-7575  
