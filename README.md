@@ -14,7 +14,7 @@
 
 ## About Me
 
-I build web and mobile apps with **Next.js**, **React Native**, and **Supabase**. Two projects are live right now — **CineMatch** (movie matching) and **Thrift Value AI** (thrift-store photo ID + price estimate). I use **Cursor** when it helps, but I still read every diff and test before pushing.
+I build web and mobile apps with **Next.js**, **React Native**, and **Supabase**. Two projects are live right now — **CineMatch** (movie matching) and **Thrift Value AI** (thrift-store photo ID + price estimate). I work with **AI tools** in my development workflow, and I still review, test, and understand everything I ship.
 
 🌐 **Portfolio:** [iniloowf.github.io/iNiloowf](https://iniloowf.github.io/iNiloowf/)  
 📄 **Resume:** [View / Print PDF](https://iniloowf.github.io/iNiloowf/resume.html)
@@ -30,18 +30,12 @@ I build web and mobile apps with **Next.js**, **React Native**, and **Supabase**
 
 ---
 
-## How I use AI
-
-Cursor for boilerplate, debugging, and getting unstuck. I don't copy-paste blindly — I review, test, and own the code.
-
----
-
 ## Tech
 
 ```
 TypeScript · JavaScript · React · Next.js · React Native · Expo
 Tailwind · Supabase · PostgreSQL · Node.js · Stripe · Capacitor
-Cursor · Git · GitHub · Vercel
+AI tools · Git · GitHub · Vercel
 ```
 
 ---

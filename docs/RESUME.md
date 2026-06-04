@@ -8,7 +8,7 @@
 
 ## Summary
 
-Full-stack developer based in Canada. I've shipped two live web apps — a movie-matching product with auth, payments, and an Android build, and an AI thrift-store tool. Comfortable with React, Next.js, Supabase, and Vercel. I use Cursor to move faster, but I review and debug my own code.
+Full-stack developer based in Canada. I've shipped two live web apps — a movie-matching product with auth, payments, and an Android build, and an AI thrift-store tool. Comfortable with React, Next.js, Supabase, and Vercel. I work with AI tools in my development workflow, and I still review, test, and understand everything I ship.
 
 ---
 
@@ -19,7 +19,7 @@ Full-stack developer based in Canada. I've shipped two live web apps — a movie
 | **Languages** | TypeScript, JavaScript, HTML, CSS, SQL |
 | **Frontend** | React, Next.js, Tailwind, React Native, Expo, Capacitor |
 | **Backend** | Node.js, Supabase, PostgreSQL, REST APIs |
-| **Tools** | Git, GitHub, Vercel, Cursor, Stripe, TMDB |
+| **Tools** | Git, GitHub, Vercel, AI tools, Stripe, TMDB |
 
 ---
 
@@ -34,12 +34,6 @@ Movie app — swipe through films, shared watchlists, linked accounts. Supabase 
 **Live:** [thrift-store-ai-app.vercel.app](https://thrift-store-ai-app.vercel.app) · **Code:** [GitHub](https://github.com/iNiloowf/Thrift-Store-AI-App)
 
 Photo a thrift-store find, get an ID and rough resale estimate. Next.js, TypeScript, Vercel.
-
----
-
-## AI tools
-
-Cursor for boilerplate and debugging. I read the output, test it, and can walk through my code in an interview.
 
 ---
 
