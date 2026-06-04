@@ -8,58 +8,42 @@
 
 ## Summary
 
-Full-stack developer with a portfolio of **live, public** web and mobile applications. Proficient in React, Next.js, React Native, Supabase, and Vercel deployment. Uses **AI-assisted development tools like Cursor** to ship faster while maintaining full code ownership and quality. Based in Canada, actively seeking a developer role.
+Full-stack developer based in Canada. I've shipped two live web apps — a movie-matching product with auth, payments, and an Android build, and an AI thrift-store tool. Comfortable with React, Next.js, Supabase, and Vercel. I use Cursor to move faster, but I review and debug my own code.
 
 ---
 
-## Technical Skills
+## Skills
 
-| Category | Technologies |
-|----------|-------------|
+| | |
+|---|---|
 | **Languages** | TypeScript, JavaScript, HTML, CSS, SQL |
-| **Frontend** | React 19, Next.js 16, Tailwind CSS, Expo, React Native, Capacitor |
-| **Backend** | Node.js, Express, Supabase, PostgreSQL, REST APIs |
-| **Tools** | Git, GitHub, Vercel, **Cursor**, Stripe, TMDB, Zod |
+| **Frontend** | React, Next.js, Tailwind, React Native, Expo, Capacitor |
+| **Backend** | Node.js, Supabase, PostgreSQL, REST APIs |
+| **Tools** | Git, GitHub, Vercel, Cursor, Stripe, TMDB |
 
 ---
 
-## AI-Assisted Development
-
-Daily user of **Cursor** and modern AI coding tools for prototyping, debugging, and documentation. AI is a productivity multiplier — every line of code is understood, tested, and owned. Comfortable explaining work in technical interviews.
-
----
-
-## Public Projects
+## Projects
 
 ### CineMatch · 2025 – Present
 **Live:** [cine-match-neon.vercel.app](https://cine-match-neon.vercel.app) · **Code:** [GitHub](https://github.com/iNiloowf/CineMatch)
 
-Mobile-first movie matching app with swipe discovery, shared watchlists, Supabase auth, Stripe, TMDB, and Capacitor Android.
+Movie app — swipe through films, shared watchlists, linked accounts. Supabase auth, Stripe, TMDB, Capacitor Android build.
 
 ### Thrift Value AI · 2026
 **Live:** [thrift-store-ai-app.vercel.app](https://thrift-store-ai-app.vercel.app) · **Code:** [GitHub](https://github.com/iNiloowf/Thrift-Store-AI-App)
 
-AI-powered thrift store app for item identification and resale value estimation. Next.js, TypeScript, Vercel.
+Photo a thrift-store find, get an ID and rough resale estimate. Next.js, TypeScript, Vercel.
 
-### BiteSync · 2026
-**Live:** [bite-sync-three.vercel.app](https://bite-sync-three.vercel.app) · **Code:** [GitHub](https://github.com/iNiloowf/BiteSync)
+---
 
-Group food decisions with QR rooms and swipe matching. Next.js, TypeScript, Vercel.
+## AI tools
 
-### Crypto Tracker · 2025
-**Code:** [GitHub](https://github.com/iNiloowf/faradars-crypto-tracking)
-
-Real-time crypto price tracking dashboard.
-
-### Bank Functional · 2023
-**Code:** [GitHub](https://github.com/iNiloowf/Bank_Functional)
-
-Interactive bank dashboard UI.
+Cursor for boilerplate and debugging. I read the output, test it, and can walk through my code in an interview.
 
 ---
 
 ## Education
 
 - Complete JavaScript Course (Jonas Schmedtmann)
-- Faradars programming courses
-- Self-directed: 11 public GitHub repos, continuous shipping
+- Self-directed — learned by building and deploying projects on GitHub

@@ -1,77 +1,73 @@
-<div align="center">
-
-# Hi, I'm Niloofar 👋
-
-**Full-Stack & Mobile Developer** · Canada · Open to Work
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-6366f1?style=for-the-badge&logo=github)](https://iniloowf.github.io/iNiloowf/)
-[![Resume](https://img.shields.io/badge/Resume-PDF-f97316?style=for-the-badge)](https://iniloowf.github.io/iNiloowf/resume.html)
-[![Email](https://img.shields.io/badge/Email-Niloowf@gmail.com-555?style=for-the-badge&logo=gmail)](mailto:Niloowf@gmail.com)
-
-</div>
-
----
-
-## About Me
-
-I build and ship **public, live web and mobile apps** — from swipe-based movie matching to group food decisions. I work across the full stack with **Next.js**, **React Native**, **Supabase**, and **Stripe**, and I use **Cursor** and AI tools to move faster while keeping full ownership of my code.
-
-🌐 **Portfolio:** [iniloowf.github.io/iNiloowf](https://iniloowf.github.io/iNiloowf/)  
-📄 **Resume:** [View / Print PDF](https://iniloowf.github.io/iNiloowf/resume.html)
-
----
-
-## 🚀 Public Projects
-
-| Project | Description | Live | Code |
-|---------|-------------|------|------|
-| **CineMatch** | Movie matching — swipe, watchlists, auth, Stripe, Android APK | [Demo](https://cine-match-neon.vercel.app) | [Repo](https://github.com/iNiloowf/CineMatch) |
-| **Thrift Value AI** | AI thrift store app — item ID and resale value estimation | [Demo](https://thrift-store-ai-app.vercel.app) | [Repo](https://github.com/iNiloowf/Thrift-Store-AI-App) |
-| **BiteSync** | Group food decisions with QR rooms and swipe matching | [Demo](https://bite-sync-three.vercel.app) | [Repo](https://github.com/iNiloowf/BiteSync) |
-| **Crypto Tracker** | Real-time crypto price dashboard | — | [Repo](https://github.com/iNiloowf/faradars-crypto-tracking) |
-| **Bank Functional** | Interactive bank dashboard UI | — | [Repo](https://github.com/iNiloowf/Bank_Functional) |
-
----
-
-## 🤖 AI-Assisted Workflow
-
-I use **Cursor** daily as a pair-programming partner — for faster prototyping, debugging, and shipping. Every project is built, reviewed, and deployed by me. AI accelerates my workflow; it doesn't replace my understanding.
-
----
-
-## 🛠 Tech Stack
-
-```
-TypeScript · JavaScript · React 19 · Next.js 16 · React Native · Expo
-Tailwind CSS · Supabase · PostgreSQL · Node.js · Stripe · Capacitor
-Cursor · Git · GitHub · Vercel · TMDB
-```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iNiloowf&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iNiloowf&layout=compact&theme=default&hide_border=true)
-
-</div>
-
----
-
-## 📫 Connect
-
-- 📧 [Niloowf@gmail.com](mailto:Niloowf@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/niloofar-karyar-1b3258156/)
-- 🐙 [@iNiloowf](https://github.com/iNiloowf)
-- 🐦 [@iniloowf](https://twitter.com/iniloowf)
-
----
-
-<div align="center">
-
-*Building real products. Learning every day. Ready for my next role.*
-
-</div>
+<div align="center">
+
+# Hi, I'm Niloofar 👋
+
+**Full-Stack & Mobile Developer** · Canada · Open to Work
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-6366f1?style=for-the-badge&logo=github)](https://iniloowf.github.io/iNiloowf/)
+[![Resume](https://img.shields.io/badge/Resume-PDF-f97316?style=for-the-badge)](https://iniloowf.github.io/iNiloowf/resume.html)
+[![Email](https://img.shields.io/badge/Email-Niloowf@gmail.com-555?style=for-the-badge&logo=gmail)](mailto:Niloowf@gmail.com)
+
+</div>
+
+---
+
+## About Me
+
+I build web and mobile apps with **Next.js**, **React Native**, and **Supabase**. Two of my projects are live right now — a movie-matching app and an AI thrift-store tool. I use **Cursor** when it helps, but I still read every diff and test before pushing.
+
+🌐 **Portfolio:** [iniloowf.github.io/iNiloowf](https://iniloowf.github.io/iNiloowf/)  
+📄 **Resume:** [View / Print PDF](https://iniloowf.github.io/iNiloowf/resume.html)
+
+---
+
+## Projects
+
+| Project | What it is | Live | Code |
+|---------|------------|------|------|
+| **CineMatch** | Swipe movies, shared watchlists, Stripe, Android app | [Demo](https://cine-match-neon.vercel.app) | [Repo](https://github.com/iNiloowf/CineMatch) |
+| **Thrift Value AI** | Photo a thrift find, get ID + resale estimate | [Demo](https://thrift-store-ai-app.vercel.app) | [Repo](https://github.com/iNiloowf/Thrift-Store-AI-App) |
+
+---
+
+## How I use AI
+
+Cursor for boilerplate, debugging, and getting unstuck. I don't copy-paste blindly — I review, test, and own the code.
+
+---
+
+## Tech
+
+```
+TypeScript · JavaScript · React · Next.js · React Native · Expo
+Tailwind · Supabase · PostgreSQL · Node.js · Stripe · Capacitor
+Cursor · Git · GitHub · Vercel
+```
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iNiloowf&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iNiloowf&layout=compact&theme=default&hide_border=true)
+
+</div>
+
+---
+
+## Contact
+
+- 📧 [Niloowf@gmail.com](mailto:Niloowf@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/niloofar-karyar-1b3258156/)
+- 🐙 [@iNiloowf](https://github.com/iNiloowf)
+
+---
+
+<div align="center">
+
+*Based in Canada. Looking for my next dev role.*
+
+</div>
