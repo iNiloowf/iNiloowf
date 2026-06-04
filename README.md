@@ -4,8 +4,8 @@
 
 **Full-Stack & Mobile Developer** · Canada
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-iniloowf.github.io-ff8cab?style=for-the-badge)](https://iniloowf.github.io)
-[![Resume](https://img.shields.io/badge/Resume-View-bba7ff?style=for-the-badge)](https://iniloowf.github.io/resume.html)
+[![Portfolio](https://img.shields.io/badge/Portfolio-iNiloowf.github.io-ff8cab?style=for-the-badge)](https://iniloowf.github.io/iNiloowf/)
+[![Resume](https://img.shields.io/badge/Resume-View-bba7ff?style=for-the-badge)](https://iniloowf.github.io/iNiloowf/resume.html)
 [![Email](https://img.shields.io/badge/Email-Niloowf@gmail.com-555?style=for-the-badge)](mailto:Niloowf@gmail.com)
 
 </div>
@@ -16,8 +16,8 @@
 
 I build and ship production web and mobile apps — from swipe-based movie matching to AI-powered thrift pricing. I work across the full stack: **Next.js**, **React Native**, **Supabase**, **Stripe**, and **OpenAI Vision**.
 
-🌐 **Portfolio:** [iniloowf.github.io](https://iniloowf.github.io)  
-📄 **Resume:** [View / Print PDF](https://iniloowf.github.io/resume.html)
+🌐 **Portfolio:** [iniloowf.github.io/iNiloowf](https://iniloowf.github.io/iNiloowf/)  
+📄 **Resume:** [View / Print PDF](https://iniloowf.github.io/iNiloowf/resume.html)
 
 ---
 
