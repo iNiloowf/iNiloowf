@@ -2,11 +2,11 @@
 
 # Hi, I'm Niloofar 👋
 
-**Full-Stack & Mobile Developer** · Canada
+**Full-Stack & Mobile Developer** · Canada · Open to Work
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-iNiloowf.github.io-ff8cab?style=for-the-badge)](https://iniloowf.github.io/iNiloowf/)
-[![Resume](https://img.shields.io/badge/Resume-View-bba7ff?style=for-the-badge)](https://iniloowf.github.io/iNiloowf/resume.html)
-[![Email](https://img.shields.io/badge/Email-Niloowf@gmail.com-555?style=for-the-badge)](mailto:Niloowf@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-6366f1?style=for-the-badge&logo=github)](https://iniloowf.github.io/iNiloowf/)
+[![Resume](https://img.shields.io/badge/Resume-PDF-f97316?style=for-the-badge)](https://iniloowf.github.io/iNiloowf/resume.html)
+[![Email](https://img.shields.io/badge/Email-Niloowf@gmail.com-555?style=for-the-badge&logo=gmail)](mailto:Niloowf@gmail.com)
 
 </div>
 
@@ -14,21 +14,28 @@
 
 ## About Me
 
-I build and ship production web and mobile apps — from swipe-based movie matching to AI-powered thrift pricing. I work across the full stack: **Next.js**, **React Native**, **Supabase**, **Stripe**, and **OpenAI Vision**.
+I build and ship **public, live web and mobile apps** — from swipe-based movie matching to group food decisions. I work across the full stack with **Next.js**, **React Native**, **Supabase**, and **Stripe**, and I use **Cursor** and AI tools to move faster while keeping full ownership of my code.
 
 🌐 **Portfolio:** [iniloowf.github.io/iNiloowf](https://iniloowf.github.io/iNiloowf/)  
 📄 **Resume:** [View / Print PDF](https://iniloowf.github.io/iNiloowf/resume.html)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Public Projects
 
 | Project | Description | Live | Code |
 |---------|-------------|------|------|
-| **CineMatch** | Movie & series matching app — swipe discovery, shared watchlists, genre onboarding, Stripe subscriptions, Android APK | [Demo](https://cine-match-neon.vercel.app) | [Repo](https://github.com/iNiloowf/CineMatch) |
-| **Thrift Value AI** | AI thrift flipping — GPT-4o Vision + eBay pricing + deal scoring | — | Private |
+| **CineMatch** | Movie matching — swipe, watchlists, auth, Stripe, Android APK | [Demo](https://cine-match-neon.vercel.app) | [Repo](https://github.com/iNiloowf/CineMatch) |
 | **BiteSync** | Group food decisions with QR rooms and swipe matching | [Demo](https://bite-sync-three.vercel.app) | [Repo](https://github.com/iNiloowf/BiteSync) |
-| **Cinemate** | First-gen movie discovery app (evolved into CineMatch) | [Demo](https://cinemate-pearl.vercel.app) | [Repo](https://github.com/iNiloowf/cinemate) |
+| **Cinemate** | Movie discovery app (evolved into CineMatch) | [Demo](https://cinemate-pearl.vercel.app) | [Repo](https://github.com/iNiloowf/cinemate) |
+| **Crypto Tracker** | Real-time crypto price dashboard | — | [Repo](https://github.com/iNiloowf/faradars-crypto-tracking) |
+| **Bank Functional** | Interactive bank dashboard UI | — | [Repo](https://github.com/iNiloowf/Bank_Functional) |
+
+---
+
+## 🤖 AI-Assisted Workflow
+
+I use **Cursor** daily as a pair-programming partner — for faster prototyping, debugging, and shipping. Every project is built, reviewed, and deployed by me. AI accelerates my workflow; it doesn't replace my understanding.
 
 ---
 
@@ -36,8 +43,8 @@ I build and ship production web and mobile apps — from swipe-based movie match
 
 ```
 TypeScript · JavaScript · React 19 · Next.js 16 · React Native · Expo
-Tailwind CSS · Supabase · PostgreSQL · Node.js · Express · Stripe
-TMDB · OpenAI Vision · Apify · Capacitor · Vercel · Git
+Tailwind CSS · Supabase · PostgreSQL · Node.js · Stripe · Capacitor
+Cursor · Git · GitHub · Vercel · TMDB
 ```
 
 ---
@@ -46,9 +53,9 @@ TMDB · OpenAI Vision · Apify · Capacitor · Vercel · Git
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iNiloowf&show_icons=true&theme=radical&hide_border=true&bg_color=0d0f12&title_color=ffd6e3&text_color=f5f0e8&icon_color=ff8cab)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iNiloowf&show_icons=true&theme=default&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iNiloowf&layout=compact&theme=radical&hide_border=true&bg_color=0d0f12&title_color=ffd6e3&text_color=f5f0e8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iNiloowf&layout=compact&theme=default&hide_border=true)
 
 </div>
 
@@ -56,15 +63,15 @@ TMDB · OpenAI Vision · Apify · Capacitor · Vercel · Git
 
 ## 📫 Connect
 
-- 📧 Email: [Niloowf@gmail.com](mailto:Niloowf@gmail.com)
-- 🐙 GitHub: [@iNiloowf](https://github.com/iNiloowf)
-- 🐦 Twitter: [@iniloowf](https://twitter.com/iniloowf)
-- 🐱 Cat lover — Lucifer & Cookie 🐾
+- 📧 [Niloowf@gmail.com](mailto:Niloowf@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/niloofar-karyar-1b3258156/)
+- 🐙 [@iNiloowf](https://github.com/iNiloowf)
+- 🐦 [@iniloowf](https://twitter.com/iniloowf)
 
 ---
 
 <div align="center">
 
-*"Passionate about building projects, learning new technologies, and sharing code."*
+*Building real products. Learning every day. Ready for my next role.*
 
 </div>
